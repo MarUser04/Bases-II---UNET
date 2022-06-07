@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T04:07:32.511Z" agent="5.0 (Windows)" etag="yCa2BTl8gyB6EAj9nNOM" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T04:08:17.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kHvO9jpdejpk2mezXtH0" version="19.0.0" type="github">
   <diagram id="HF1T-lrZuITMvaI3ARa5" name="Page-1">
-    <mxGraphModel dx="1662" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ge-oMqZ7D7MzEekQnzG1-1" value="dim_players" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="610" width="140" height="180" as="geometry" />
+          <mxGeometry x="640" y="610" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ge-oMqZ7D7MzEekQnzG1-2" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ge-oMqZ7D7MzEekQnzG1-1" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
